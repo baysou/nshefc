@@ -1,0 +1,47 @@
+{
+	"name": "nshefc",
+	"version": "1.1.0",
+	"publisher": "madgenius",
+	"engines": {
+		"vscode": "^1.99.3"
+	},
+	"license": "SEE LICENSE IN UNLICENSE",
+	"displayName": "No Syntax Highlighting Except For Comments",
+	"description": "Plain text theme with comment highlighting",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"black-and-white",
+		"colorless",
+		"disable syntax highlighting",
+		"grayscale",
+		"monochrome",
+		"no rainbow",
+		"no syntax highlighting",
+		"plain text",
+		"plain theme",
+		"simple theme"
+	],
+	"galleryBanner": {
+		"color": "#1e1e1e",
+		"theme": "dark"
+	},
+	"contributes": {
+		"configurationDefaults": {
+			"editor.inlineSuggest.syntaxHighlightingEnabled": false
+		},
+		"themes": [
+			{
+				"label": "No Syntax Highlighting Except For Comments",
+				"uiTheme": "vs-dark",
+				"path": "nshefc.json"
+			}
+		]	
+	},
+	"icon": "nshefc.png",
+	"repository": {
+		"type": "git",
+		"url": "github:baysou/nshefc"
+	}
+}
