@@ -8,7 +8,7 @@
 		"editorCursor.foreground": "#f5f5f5", // Match editor foreground
 		"editorGhostText.foreground": "#fbfb89", // Match editor foreground luminance (https://www.w3.org/TR/WCAG22/relative-luminance.html)
 		"editor.placeholder.foreground": "#ffffff56", // Default ghost text foreground; prevent inheriting the yellow ghost text
-		"editorIndentGuide.activeBackground1": "#707070", // Default invisible; adopt Dark+ setting
+		"editorIndentGuide.activeBackground1": "#707070", // Default is invisible; adopt Dark+ setting
 
 		// Hide bracket pair colorization
 		"editorBracketHighlight.foreground1": "#00000000",
