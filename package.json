@@ -1,6 +1,6 @@
 {
 	"name": "nshefc",
-	"version": "1.1.2",
+	"version": "1.2.0",
 	"publisher": "madgenius",
 	"engines": {
 		"vscode": "^1.99.3"
@@ -12,16 +12,11 @@
 		"Themes"
 	],
 	"keywords": [
-		"black-and-white",
-		"colorless",
 		"disable syntax highlighting",
-		"grayscale",
-		"monochrome",
 		"no rainbow",
 		"no syntax highlighting",
 		"plain text",
-		"plain theme",
-		"simple theme"
+		"plain theme"
 	],
 	"galleryBanner": {
 		"color": "#1e1e1e",
